@@ -18,6 +18,7 @@ namespace MyDictionary
                 Console.WriteLine(student);
             }
            
+
             Console.ReadLine();
         }
     }
